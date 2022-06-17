@@ -3,3 +3,5 @@ pear
 peach
 banana
 melon
+바나나
+시이발
